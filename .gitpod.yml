@@ -1,1 +1,5 @@
 image: crystallang/crystal
+
+vscode:
+  extensions:
+    - faustinoaq.crystal-lang@0.3.14:C7cVEQO67LPca96xxyECog==
